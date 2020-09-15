@@ -1,0 +1,7 @@
+psutil==5.7.2
+selenium==3.14.1
+Flask==1.1.2
+requests==2.24.0
+coverage==5.2.1
+locust==1.0.2
+pymongo==3.11.0
